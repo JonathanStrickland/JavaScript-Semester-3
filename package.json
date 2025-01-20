@@ -1,0 +1,23 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "An app to generator random passwords",
+  "main": "PasswordGen.js",
+  "scripts": {
+    "test": "node PasswordGen.js --length 10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanStrickland/JavaScript-Semester-3.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "Jonathan Strickland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanStrickland/JavaScript-Semester-3/issues"
+  },
+  "homepage": "https://github.com/JonathanStrickland/JavaScript-Semester-3#readme"
+}
