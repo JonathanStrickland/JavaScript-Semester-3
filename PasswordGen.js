@@ -8,14 +8,15 @@ import { randomInt } from 'crypto';
 // Function to display help message
 // Run "node PasswordGen.js --help"
 function displayHelp() {
-    console.log(`Password Generator:
+    console.log(`Helpful Commands:
     
-    Options:
     --help          Show this help message
     --length <n>    Specify the length of the password (default: 8)
     --uppercase     Include uppercase letters
     --numbers       Include numbers
     --symbols       Include special characters
+
+Example: node PasswordGen.js --length 10
     `);
 }
 
